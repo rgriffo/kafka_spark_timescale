@@ -2,7 +2,7 @@ name: Kafka-Spark-Timescale Pipeline
 
 on:
   push:
-    branches: [ main ]
+    branches: [ master ]
 
 jobs:
   pipeline:
